@@ -1,0 +1,6 @@
+name: plugin-sample
+version: '${version}'
+main: org.example.plugin.pluginsample.Main
+api-version: '1.21'
+commands:
+  levelup:
